@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary_middle</item>
+        <item name="colorPrimaryVariant">@color/primary_front</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/primary_back</item>
+    </style>
+
+    <!--splash theme-->
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_middle</item>
+        <item name="colorPrimaryVariant">@color/primary_front</item>
+        <item name="colorSecondary">@color/primary_back</item>
+    </style>
+
+</resources>
